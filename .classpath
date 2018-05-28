@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="src/cucumber/CucumberRunner.java"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/gherkin-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/nithin/Desktop/jar_files/gherkin-2.12.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
